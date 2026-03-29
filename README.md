@@ -1,6 +1,6 @@
-# shadcn/ui monorepo template
+# hera monorepo template
 
-This is a NextJS monorepo template with React, Turborepo, Tailwind CSS, and shadcn/ui.
+This is the Hera monorepo template with React, Turborepo, Tailwind CSS, and shadcn/ui.
 
 ## Setup
 
